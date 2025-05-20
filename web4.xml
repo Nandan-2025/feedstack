@@ -1,0 +1,16 @@
+##  posts.
+
+    <section class="posts"> 
+      <h3>Recent Posts</h3>
+      <ul id="postList">
+        <li>Excited to start my new project! 🚀</li>
+        <li>Just finished a cool CSS animation!</li>
+      </ul>
+    </section>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
+
+
+
