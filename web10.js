@@ -1,5 +1,3 @@
-##  script.js
-
 document.getElementById("username").innerText = "Jane Smith";
 document.getElementById("followers").innerText = "250";
 document.getElementById("following").innerText = "300";

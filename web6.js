@@ -1,5 +1,5 @@
-33 container and header.
-
+// CSS styles moved to a string for use in JavaScript, or move this to a .css file instead.
+const styles = `
 .container {
   width: 90%;
   max-width: 600px;
@@ -14,4 +14,11 @@ header h1 {
   text-align: center;
   color: #1da1f2;
 }
+`;
+
+// You can inject these styles into the document if needed:
+// const styleSheet = document.createElement("style");
+// styleSheet.type = "text/css";
+// styleSheet.innerText = styles;
+// document.head.appendChild(styleSheet);
 
